@@ -3,5 +3,5 @@ package testpackage
 import "fmt"
 
 func TestMethod() string {
-	return "test"
+	return "test2"
 }
